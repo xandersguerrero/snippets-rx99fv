@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xandersguerrero.github.io/snippets-rx99fv/sitemap.xml
